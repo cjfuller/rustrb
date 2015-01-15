@@ -1,5 +1,3 @@
-require 'pry'
-
 `rake clean`
 `rm target/*.o`
 `rm lib/*.bundle`
